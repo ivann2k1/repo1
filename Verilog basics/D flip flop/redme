@@ -1,1 +1,10 @@
+D Flip-Flop
 
+A basic D flip-flop implemented and simulated in Verilog.
+
+dff dut.v — D flip-flop design
+dff testbench.v — testbench
+dff.png — D flip-flop diagram
+Dff epwave.png — simulation waveform
+
+The flip-flop captures the value of D on the rising edge of CLK and stores it in Q.
