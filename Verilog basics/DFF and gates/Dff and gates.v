@@ -3,7 +3,9 @@ module top_module (
     input x,
     output z
 ); 
-    reg a,b,c;
+  reg a=0;
+  reg b=0;
+  reg c=0;
     always@(posedge clk) begin
         
         a<=x^a;
@@ -13,4 +15,3 @@ module top_module (
         assign z=~(a|b|c);
 
 endmodule
-
