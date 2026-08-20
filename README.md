@@ -1,12 +1,12 @@
-Verilog Basics
+#Verilog Basics
 
 A collection of digital logic and hardware design projects made with Verilog HDL.
 
-Overview
+##Overview
 
 This repository contains different projects that cover the basics of digital logic design. The projects include both combinational and sequential circuits and show how basic hardware components can be designed using Verilog.
 
-Projects
+##Projects
 7420 & 7458 Chips — logic gate circuits
 Half Adder & Full Adder — binary addition circuits
 16-Bit Adder — 16-bit binary addition
@@ -16,7 +16,8 @@ D Flip-Flop — stores a single bit of data
 D Flip-Flop & Gates — flip-flops combined with logic gates
 Decade Counter — counts from 0 to 9
 Four-Bit Counter — 4-bit binary counter
-Topics
+
+##Topics
 Verilog HDL
 Digital Logic Design
 Combinational Logic
