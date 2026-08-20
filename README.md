@@ -18,7 +18,7 @@ This repository contains different projects that cover the basics of digital log
 - Four-Bit Counter — 4-bit binary counter
 
 ## Topics
--** Verilog HDL** 
+- Verilog HDL
 - Digital Logic Design
 - Combinational Logic
 - Sequential Logic
